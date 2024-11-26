@@ -1,6 +1,6 @@
 {
   "name": "t-worker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Web Worker 工具",
   "main": "dist/index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   "homepage": "https://teeu.cn/blog/ts/worker.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/soldair/node-qrcode.git"
+    "url": "git@github.com:admin1949/t-worker.git"
   },
   "files": [
     "dist/*",
@@ -23,7 +23,7 @@
     "worker",
     "worker-pool"
   ],
-  "author": "Eirc",
+  "author": "yimisanqi",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.26.0",
