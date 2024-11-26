@@ -1,0 +1,17 @@
+{
+  "name": "webpack-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack server -c webpack-conf/dev.js",
+    "build": "webpack -c webpack-conf/prod.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.5.13",
+    "t-worker": "workspace:^"
+  }
+}
